@@ -52,9 +52,6 @@ int main() {
         printf("\n");
     }
     printf("\n");
-    for(i = 0; i < 60; i++)
-        printf("+");
-    printf("\n");
 
     /* vertical histogram */
     printf("\nhorizontal histogram\n");
