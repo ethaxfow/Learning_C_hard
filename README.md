@@ -5,4 +5,4 @@ So far I get stuck in Chapter 1 exercise 13 which is really difficult for me, I 
 - **Exercise 1-13** Write a program to print a histogram of the lengths of words in its input. It is
 easy to draw the histogram with the bars horizontal; a vertical orientation is more challenging.
 
-- [ ] Finish this challege.
+- [x] Finish this challege.
